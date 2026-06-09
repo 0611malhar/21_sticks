@@ -8,3 +8,5 @@ while n > 4:
         print("invalid input")
     c = random.randint(1,5)
     n -= c
+
+
